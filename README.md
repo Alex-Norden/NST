@@ -3,8 +3,8 @@ PyTorch Implementation of Neural Style Transfer from the paper "A Neural Algorit
 
 # Examples
 ## Single Style Transfer
+<div align="center">Content Image</div>
 <div align="center">
-	Content Image
 	<img src="data/content/girl.jpg" width="400px">
 </div>
 
