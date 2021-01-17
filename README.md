@@ -4,17 +4,22 @@ PyTorch Implementation of Neural Style Transfer from the paper "A Neural Algorit
 # Examples
 ## Single Style Transfer
 Content Image
-<img src="https://github.com/Alex-Norden/NST/raw/main/data/content/girl.jpg" width=49% height=300 alt="girl">
-<br>
+<div align="center">
+  <img src="data/content/girl.jpg" width="400px">
+</div>
+
 Style Image
-<img src="https://raw.githubusercontent.com/Alex-Norden/NST/blob/main/data/style/mosaic.jpg" width=49% height=300 alt="mosaic">
-<br>
+<div align="center">
+  <img src="data/style/mosaic.jpg" width="200px">
+  <img src="data/result/girl-mosaic-vg_starry_night/stylized_first.jpg" width="400px">
+</div>
+
 Style 2 Image
-<img src="https://raw.githubusercontent.com/Alex-Norden/NST/blob/main/data/style/vg_starry_night.jpg" width=49% height=300 alt="starry night">
+<div align="center">
+  <img src="data/style/vg_starry_night.jpg" width="200px">
+  <img src="data/result/girl-mosaic-vg_starry_night/stylized_second.jpg" width="400px">
+</div>
+
 ## Masked Style Transfer
 
 ## Multiple Style Transfer
-
-<div align='center'>
-  <img src='data/style/candy.jpg'>
-</div>
