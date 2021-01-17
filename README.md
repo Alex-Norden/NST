@@ -14,3 +14,7 @@ Style 2 Image
 ## Masked Style Transfer
 
 ## Multiple Style Transfer
+
+<div align='center'>
+  <img src='data/style/candy.jpg'>
+</div>
