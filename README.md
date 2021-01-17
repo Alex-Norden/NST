@@ -4,7 +4,7 @@ PyTorch Implementation of Neural Style Transfer from the paper "A Neural Algorit
 # Examples
 ## Single Style Transfer
 Content Image
-<img src="https://raw.githubusercontent.com/Alex-Norden/NST/blob/main/data/content/girl.jpg" width=49% height=300 alt="girl">
+<img src="https://github.com/Alex-Norden/NST/raw/main/data/content/girl.jpg" width=49% height=300 alt="girl">
 <br>
 Style Image
 <img src="https://raw.githubusercontent.com/Alex-Norden/NST/blob/main/data/style/mosaic.jpg" width=49% height=300 alt="mosaic">
